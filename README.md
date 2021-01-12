@@ -10,7 +10,7 @@ $ gem install some-ai
 
 ## Usage
 
-Installing this gem is generally sufficient to add some AI to your project. You can however
+Installing this gem is generally sufficient to add some AI to your project. You can, however,
 include the `SomeAI` module in your classes, which gives you access to the `ai` method.
 
 ```ruby
